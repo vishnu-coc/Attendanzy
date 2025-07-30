@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "226746641148",
+    "project_id": "mylab-3db48",
+    "storage_bucket": "mylab-3db48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226746641148:android:aea6548356b3a5b65f4579",
+        "android_client_info": {
+          "package_name": "com.appli.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSHv6pOo1BLG9_IPuBrZsu0xxCASNAU1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226746641148:android:c62f030b317e12e35f4579",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_70"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSHv6pOo1BLG9_IPuBrZsu0xxCASNAU1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226746641148:android:0a4330018f540b115f4579",
+        "android_client_info": {
+          "package_name": "com.example.flutter_attendence_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSHv6pOo1BLG9_IPuBrZsu0xxCASNAU1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

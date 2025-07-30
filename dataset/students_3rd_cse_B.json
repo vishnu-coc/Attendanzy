@@ -1,0 +1,260 @@
+{
+  "dep": "CSE",
+  "year": "3rd year",
+  "sec": "B",
+  "students": [
+    {
+      "name": "Mariya Jennifer",
+      "register_no": "065"
+    },
+    {
+      "name": "Midhun",
+      "register_no": "066"
+    },
+    {
+      "name": "Mohammad naveed",
+      "register_no": "067"
+    },
+    {
+      "name": "Mohammad Sameer",
+      "register_no": "068"
+    },
+    {
+      "name": "Mohammad jaffer",
+      "register_no": "069"
+    },
+    {
+      "name": "Mohan Raj U",
+      "register_no": "071"
+    },
+    {
+      "name": "Mohan Raj R",
+      "register_no": "072"
+    },
+    {
+      "name": "Muthu saran",
+      "register_no": "074"
+    },
+    {
+      "name": "Pavithra R",
+      "register_no": "075"
+    },
+    {
+      "name": "Praveen A",
+      "register_no": "076"
+    },
+    {
+      "name": "Preethi",
+      "register_no": "077"
+    },
+    {
+      "name": "Preethika C",
+      "register_no": "078"
+    },
+    {
+      "name": "Priyanka",
+      "register_no": "079"
+    },
+    {
+      "name": "Puhazhmani",
+      "register_no": "080"
+    },
+    {
+      "name": "Ragavi P",
+      "register_no": "081"
+    },
+    {
+      "name": "Ragini dharmalingam",
+      "register_no": "082"
+    },
+    {
+      "name": "Ramanan",
+      "register_no": "083"
+    },
+    {
+      "name": "Rasica",
+      "register_no": "084"
+    },
+    {
+      "name": "Sameera sameem",
+      "register_no": "087"
+    },
+    {
+      "name": "Samuel KC",
+      "register_no": "088"
+    },
+    {
+      "name": "Sanjay L",
+      "register_no": "089"
+    },
+    {
+      "name": "Sasidharan",
+      "register_no": "090"
+    },
+    {
+      "name": "Sathya seelan",
+      "register_no": "091"
+    },
+    {
+      "name": "Selva cyril",
+      "register_no": "092"
+    },
+    {
+      "name": "Shakthi Aravindan",
+      "register_no": "093"
+    },
+    {
+      "name": "Sharmila",
+      "register_no": "094"
+    },
+    {
+      "name": "Shyam alex",
+      "register_no": "095"
+    },
+    {
+      "name": "Sivanantham",
+      "register_no": "096"
+    },
+    {
+      "name": "Sonia",
+      "register_no": "097"
+    },
+    {
+      "name": "Sowmya",
+      "register_no": "098"
+    },
+    {
+      "name": "Sriharish",
+      "register_no": "099"
+    },
+    {
+      "name": "Srinidhi",
+      "register_no": "100"
+    },
+    {
+      "name": "Sri Ram A",
+      "register_no": "101"
+    },
+    {
+      "name": "Sri Ram V",
+      "register_no": "102"
+    },
+    {
+      "name": "Sudharsan",
+      "register_no": "104"
+    },
+    {
+      "name": "Sujith Varghese",
+      "register_no": "105"
+    },
+    {
+      "name": "Sukesh Murali S",
+      "register_no": "106"
+    },
+    {
+      "name": "Swathi M",
+      "register_no": "108"
+    },
+    {
+      "name": "Swathi P",
+      "register_no": "109"
+    },
+    {
+      "name": "Syed",
+      "register_no": "110"
+    },
+    {
+      "name": "Tanushri",
+      "register_no": "111"
+    },
+    {
+      "name": "Tarun",
+      "register_no": "112"
+    },
+    {
+      "name": "Thamil mani",
+      "register_no": "113"
+    },
+    {
+      "name": "Tishal Karthick",
+      "register_no": "114"
+    },
+    {
+      "name": "Udhaya Kumar J",
+      "register_no": "115"
+    },
+    {
+      "name": "Udhaya Kumar S",
+      "register_no": "116"
+    },
+    {
+      "name": "Vaishanavi",
+      "register_no": "117"
+    },
+    {
+      "name": "Vikash",
+      "register_no": "118"
+    },
+    {
+      "name": "Vinoth",
+      "register_no": "119"
+    },
+    {
+      "name": "Vishnu",
+      "register_no": "120"
+    },
+    {
+      "name": "Vishwa",
+      "register_no": "121"
+    },
+    {
+      "name": "Yamuna",
+      "register_no": "123"
+    },
+    {
+      "name": "Yogesh",
+      "register_no": "124"
+    },
+    {
+      "name": "Yuvasri",
+      "register_no": "125"
+    },
+    {
+      "name": "Mukesh Kumar",
+      "register_no": "126"
+    },
+    {
+      "name": "Sai Pradeep",
+      "register_no": "127"
+    },
+    {
+      "name": "Santhosh Kumar",
+      "register_no": "128"
+    },
+    {
+      "name": "Shanthini",
+      "register_no": "129"
+    },
+    {
+      "name": "Srimanikandan",
+      "register_no": "130"
+    },
+    {
+      "name": "Sugetha",
+      "register_no": "131"
+    },
+    {
+      "name": "Vijay",
+      "register_no": "132"
+    },
+    {
+      "name": "Madan kumar",
+      "register_no": "301"
+    },
+    {
+      "name": "Swetha M",
+      "register_no": "701"
+    }
+  ],
+  "incharge_no": "+91 8056928773"
+}

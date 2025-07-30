@@ -1,0 +1,268 @@
+{
+  "dep": "CSE",
+  "year": "2nd Year",
+  "sec": "B",
+  "incharge_no": "+91 8056928773",
+  "students": [
+    {
+      "name": "KARTHIKEYAN R",
+      "register_no": "065"
+    },
+    {
+      "name": "KEERTHANA P G",
+      "register_no": "066"
+    },
+    {
+      "name": "KHAMESH KHAJURIA",
+      "register_no": "067"
+    },
+    {
+      "name": "KIRUPAVATHI S",
+      "register_no": "068"
+    },
+    {
+      "name": "KISHOR A",
+      "register_no": "069"
+    },
+    {
+      "name": "KISHORE S",
+      "register_no": "070"
+    },
+    {
+      "name": "KISHORE KUMAR E",
+      "register_no": "071"
+    },
+    {
+      "name": "KISSHOR N",
+      "register_no": "072"
+    },
+    {
+      "name": "KULOTHUNGAN U G",
+      "register_no": "073"
+    },
+    {
+      "name": "LAKSHAN S",
+      "register_no": "074"
+    },
+    {
+      "name": "LAVANYA L",
+      "register_no": "075"
+    },
+    {
+      "name": "LOKESH S. R",
+      "register_no": "076"
+    },
+    {
+      "name": "MADHESH R",
+      "register_no": "077"
+    },
+    {
+      "name": "MADHU MITHA S",
+      "register_no": "078"
+    },
+    {
+      "name": "MAGHALAKSHMI P",
+      "register_no": "079"
+    },
+    {
+      "name": "MAHALAKSHMI A",
+      "register_no": "080"
+    },
+    {
+      "name": "MAHALAKSHMI BABU",
+      "register_no": "081"
+    },
+    {
+      "name": "MAKESHWARAN K",
+      "register_no": "082"
+    },
+    {
+      "name": "MALAVIKA V",
+      "register_no": "083"
+    },
+    {
+      "name": "MANIKANDAN C",
+      "register_no": "084"
+    },
+    {
+      "name": "MARTINA BLESSY J",
+      "register_no": "085"
+    },
+    {
+      "name": "MEENAKSHI DEVI",
+      "register_no": "086"
+    },
+    {
+      "name": "MITHRA S.D",
+      "register_no": "087"
+    },
+    {
+      "name": "MOGESH A",
+      "register_no": "088"
+    },
+    {
+      "name": "MOHAMED ANAS A",
+      "register_no": "089"
+    },
+    {
+      "name": "MONISH S",
+      "register_no": "090"
+    },
+    {
+      "name": "MOWUNDHA A",
+      "register_no": "091"
+    },
+    {
+      "name": "MUHAMMED SHAD K M",
+      "register_no": "092"
+    },
+    {
+      "name": "MUHAMMED SHAMIL",
+      "register_no": "093"
+    },
+    {
+      "name": "MURUGESHWARI S",
+      "register_no": "094"
+    },
+    {
+      "name": "NANDHINI S",
+      "register_no": "095"
+    },
+    {
+      "name": "NAVEEN KUMAR",
+      "register_no": "096"
+    },
+    {
+      "name": "NAVEEN M.V",
+      "register_no": "097"
+    },
+    {
+      "name": "NAVIN KUMAR R",
+      "register_no": "098"
+    },
+    {
+      "name": "NIRAIMATHI P",
+      "register_no": "099"
+    },
+    {
+      "name": "NISHA K",
+      "register_no": "100"
+    },
+    {
+      "name": "NOUGOTLU GNANA PRASUNA KEERTHI",
+      "register_no": "101"
+    },
+    {
+      "name": "PAVITHRA P",
+      "register_no": "102"
+    },
+    {
+      "name": "PRABATH R",
+      "register_no": "103"
+    },
+    {
+      "name": "PRAJEEVAN G",
+      "register_no": "104"
+    },
+    {
+      "name": "PRAJIN M",
+      "register_no": "105"
+    },
+    {
+      "name": "PRAKASH D",
+      "register_no": "106"
+    },
+    {
+      "name": "PRAKASH V",
+      "register_no": "107"
+    },
+    {
+      "name": "PRANAV J",
+      "register_no": "108"
+    },
+    {
+      "name": "PRASANNA KUMAR S",
+      "register_no": "109"
+    },
+    {
+      "name": "PRASANTH M",
+      "register_no": "110"
+    },
+    {
+      "name": "PRATHAP K",
+      "register_no": "111"
+    },
+    {
+      "name": "PRATHAP V",
+      "register_no": "112"
+    },
+    {
+      "name": "PRAVEENA A",
+      "register_no": "113"
+    },
+    {
+      "name": "PREETHA S",
+      "register_no": "114"
+    },
+    {
+      "name": "PREETHI S",
+      "register_no": "115"
+    },
+    {
+      "name": "PREETI CHETRI J",
+      "register_no": "116"
+    },
+    {
+      "name": "PREMKUMAR SAHU B",
+      "register_no": "117"
+    },
+    {
+      "name": "PRIYADHARSHINI G",
+      "register_no": "118"
+    },
+    {
+      "name": "PRIYADHARSHINI R",
+      "register_no": "119"
+    },
+    {
+      "name": "PRIYADHARSHINI S",
+      "register_no": "120"
+    },
+    {
+      "name": "PRIYADHARSNI S",
+      "register_no": "121"
+    },
+    {
+      "name": "PUTHIN M",
+      "register_no": "122"
+    },
+    {
+      "name": "RAGUL U",
+      "register_no": "123"
+    },
+    {
+      "name": "RAJA P",
+      "register_no": "124"
+    },
+    {
+      "name": "RAJESH M",
+      "register_no": "125"
+    },
+    {
+      "name": "RAMYA G",
+      "register_no": "126"
+    },
+    {
+      "name": "RAMYA V",
+      "register_no": "127"
+    },
+    {
+      "name": "RANJITH R",
+      "register_no": "128"
+    },
+    {
+      "name": "REGANSON NIXTON W",
+      "register_no": "129"
+    }
+  ]
+}

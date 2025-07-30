@@ -1,0 +1,264 @@
+{
+  "department": "CSE",
+  "year": "2nd Year",
+  "section": "A",
+  "incharge_no": "+91 73056 05941",
+  "students": [
+    {
+      "name": "Aakash Sai A",
+      "register_no": "001"
+    },
+    {
+      "name": "Aasish Dairel S",
+      "register_no": "002"
+    },
+    {
+      "name": "Abhisek A C",
+      "register_no": "003"
+    },
+    {
+      "name": "Abinaya A",
+      "register_no": "004"
+    },
+    {
+      "name": "Abishek A",
+      "register_no": "005"
+    },
+    {
+      "name": "Akshat Roshan P",
+      "register_no": "006"
+    },
+    {
+      "name": "Akshaya K",
+      "register_no": "007"
+    },
+    {
+      "name": "Akshit Chandel",
+      "register_no": "008"
+    },
+    {
+      "name": "Ammar M",
+      "register_no": "009"
+    },
+    {
+      "name": "Amudeeswari P",
+      "register_no": "010"
+    },
+    {
+      "name": "Anit Nikitha M M",
+      "register_no": "011"
+    },
+    {
+      "name": "Ankitha R S",
+      "register_no": "012"
+    },
+    {
+      "name": "Anto Roshan X",
+      "register_no": "013"
+    },
+    {
+      "name": "Anudharshini S",
+      "register_no": "014"
+    },
+    {
+      "name": "Aravindhan R",
+      "register_no": "015"
+    },
+    {
+      "name": "Archana Gownori ",
+      "register_no": "016"
+    },
+    {
+      "name": "Archana R B",
+      "register_no": "017"
+    },
+    {
+      "name": "Arun K",
+      "register_no": "018"
+    },
+    {
+      "name": "Arunachalam K",
+      "register_no": "019"
+    },
+    {
+      "name": "Arunachalam V",
+      "register_no": "020"
+    },
+    {
+      "name": "Ashaaz Ahmed Khan A",
+      "register_no": "021"
+    },
+    {
+      "name": "Ashok Kumar S",
+      "register_no": "022"
+    },
+    {
+      "name": "Asrar Basha B",
+      "register_no": "023"
+    },
+    {
+      "name": "Aswini M",
+      "register_no": "024"
+    },
+    {
+      "name": "Aswin Kumar S",
+      "register_no": "025"
+    },
+    {
+      "name": "Athish A",
+      "register_no": "026"
+    },
+    {
+      "name": "Bagath V",
+      "register_no": "027"
+    },
+    {
+      "name": "Balaji A D J",
+      "register_no": "028"
+    },
+    {
+      "name": "Bala Subi I",
+      "register_no": "029"
+    },
+    {
+      "name": "Bhuvaneshwari M",
+      "register_no": "030"
+    },
+    {
+      "name": "Dev Aravind M",
+      "register_no": "031"
+    },
+    {
+      "name": "Devasena S",
+      "register_no": "032"
+    },
+    {
+      "name": "Dhanush K",
+      "register_no": "033"
+    },
+    {
+      "name": "Dharaneeshwaran M",
+      "register_no": "034"
+    },
+    {
+      "name": "Dharshan Raj B",
+      "register_no": "035"
+    },
+    {
+      "name": "Dhavaseelan A",
+      "register_no": "036"
+    },
+    {
+      "name": "Dheena B",
+      "register_no": "037"
+    },
+    {
+      "name": "Dilli Babu E",
+      "register_no": "038"
+    },
+    {
+      "name": "Dinesh E",
+      "register_no": "039"
+    },
+    {
+      "name": "Divya G",
+      "register_no": "040"
+    },
+    {
+      "name": "Divya V",
+      "register_no": "041"
+    },
+    {
+      "name": "Dyneshwaran V",
+      "register_no": "042"
+    },
+    {
+      "name": "Ebisha E L",
+      "register_no": "043"
+    },
+    {
+      "name": "Eesha B",
+      "register_no": "044"
+    },
+    {
+      "name": "Ezhilarasan T",
+      "register_no": "045"
+    },
+    {
+      "name": "Fida Kulsum R",
+      "register_no": "046"
+    },
+    {
+      "name": "Gokul S",
+      "register_no": "047"
+    },
+    {
+      "name": "Gokulakannan N",
+      "register_no": "048"
+    },
+    {
+      "name": "Gopinath A",
+      "register_no": "049"
+    },
+    {
+      "name": "Goutha Maaliya S",
+      "register_no": "050"
+    },
+    {
+      "name": "Gowtham M",
+      "register_no": "051"
+    },
+    {
+      "name": "Harini R",
+      "register_no": "052"
+    },
+    {
+      "name": "Harivarman R G",
+      "register_no": "053"
+    },
+    {
+      "name": "Hazura Thahasen T",
+      "register_no": "054"
+    },
+    {
+      "name": "Hemaridha S J",
+      "register_no": "055"
+    },
+    {
+      "name": "Janani V",
+      "register_no": "056"
+    },
+    {
+      "name": "Jaya Prakash E",
+      "register_no": "057"
+    },
+    {
+      "name": "Jaya Priya R",
+      "register_no": "058"
+    },
+    {
+      "name": "Jaya Sandhiya S",
+      "register_no": "059"
+    },
+    {
+      "name": "Jeganthan V",
+      "register_no": "060"
+    },
+    {
+      "name": "Juveriya Fathima K",
+      "register_no": "061"
+    },
+    {
+      "name": "Kamalapriya K U",
+      "register_no": "062"
+    },
+    {
+      "name": "kamalesh R V",
+      "register_no": "063"
+    },
+    {
+      "name": "Karthika T",
+      "register_no": "064"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "dep": "CSE",
+  "year": "3rd Year",
+  "sec": "A",
+  "students": [
+    {
+      "name": "Abinaya.S",
+      "register_no": "001"
+    },
+    {
+      "name": "Abishek.A",
+      "register_no": "002"
+    },
+    {
+      "name": "Abitha.M",
+      "register_no": "003"
+    },
+    {
+      "name": "Akilan.A",
+      "register_no": "004"
+    },
+    {
+      "name": "Al Razina Jafeen.T",
+      "register_no": "005"
+    },
+    {
+      "name": "Aniruth.A",
+      "register_no": "006"
+    },
+    {
+      "name": "Ankith Vipul.V",
+      "register_no": "007"
+    },
+    {
+      "name": "Annakeli Kaniska.J.A",
+      "register_no": "008"
+    },
+    {
+      "name": "Arun G.B",
+      "register_no": "009"
+    },
+    {
+      "name": "Balaji.S",
+      "register_no": "011"
+    },
+    {
+      "name": "Baskar.B",
+      "register_no": "012"
+    },
+    {
+      "name": "Chandini.R",
+      "register_no": "013"
+    },
+    {
+      "name": "Deebha.A",
+      "register_no": "014"
+    },
+    {
+      "name": "Deepak.P",
+      "register_no": "015"
+    },
+    {
+      "name": "Deepak.S",
+      "register_no": "016"
+    },
+    {
+      "name": "Deepika.B",
+      "register_no": "017"
+    },
+    {
+      "name": "Dhanushri.R",
+      "register_no": "018"
+    },
+    {
+      "name": "Dharanya.S",
+      "register_no": "019"
+    },
+    {
+      "name": "Dheeraj.A",
+      "register_no": "020"
+    },
+    {
+      "name": "Eazhlmahan.E.R",
+      "register_no": "021"
+    },
+    {
+      "name": "Geosha.G",
+      "register_no": "022"
+    },
+    {
+      "name": "Gokul.D",
+      "register_no": "023"
+    },
+    {
+      "name": "Gowtham.S",
+      "register_no": "024"
+    },
+    {
+      "name": "Gracelin.J",
+      "register_no": "025"
+    },
+    {
+      "name": "Halima Yashika.A",
+      "register_no": "026"
+    },
+    {
+      "name": "Hamalesh.S.V",
+      "register_no": "027"
+    },
+    {
+      "name": "Hari Prasath.A.S",
+      "register_no": "028"
+    },
+    {
+      "name": "Hariharan.I",
+      "register_no": "029"
+    },
+    {
+      "name": "Hariharan.R",
+      "register_no": "030"
+    },
+    {
+      "name": "Harini.A.G",
+      "register_no": "031"
+    },
+    {
+      "name": "Harshnee.N",
+      "register_no": "032"
+    },
+    {
+      "name": "Hema.S",
+      "register_no": "033"
+    },
+    {
+      "name": "Hemabalan.A",
+      "register_no": "034"
+    },
+    {
+      "name": "Immanuel Joshua KovilPillai.I",
+      "register_no": "035"
+    },
+    {
+      "name": "Indresh Kumar",
+      "register_no": "036"
+    },
+    {
+      "name": "James Samuel.D",
+      "register_no": "037"
+    },
+    {
+      "name": "Janarthanan.S",
+      "register_no": "038"
+    },
+    {
+      "name": "Jayakrishnan.J",
+      "register_no": "039"
+    },
+    {
+      "name": "JayaNandh.S",
+      "register_no": "040"
+    },
+    {
+      "name": "JayaSudha.B",
+      "register_no": "041"
+    },
+    {
+      "name": "JeevaNandhan.B",
+      "register_no": "042"
+    },
+    {
+      "name": "Jelutshiya.M",
+      "register_no": "043"
+    },
+    {
+      "name": "Joel Jacob.B",
+      "register_no": "044"
+    },
+    {
+      "name": "Jothi.K",
+      "register_no": "045"
+    },
+    {
+      "name": "Kabilesh.R.M",
+      "register_no": "046"
+    },
+    {
+      "name": "Kamalesh.K",
+      "register_no": "047"
+    },
+    {
+      "name": "Kamalesh.S",
+      "register_no": "048"
+    },
+    {
+      "name": "KartheeSwaran.V",
+      "register_no": "049"
+    },
+    {
+      "name": "Keerthana.S",
+      "register_no": "050"
+    },
+    {
+      "name": "Keerthiga.K",
+      "register_no": "051"
+    },
+    {
+      "name": "Keerthika.D",
+      "register_no": "052"
+    },
+    {
+      "name": "Kipson.I",
+      "register_no": "053"
+    },
+    {
+      "name": "Kiruthiga.S",
+      "register_no": "054"
+    },
+    {
+      "name": "Krishna.S.B",
+      "register_no": "055"
+    },
+    {
+      "name": "KrishnaKumar.S",
+      "register_no": "056"
+    },
+    {
+      "name": "Lathika.V",
+      "register_no": "057"
+    },
+    {
+      "name": "Livin Kumar.R",
+      "register_no": "058"
+    },
+    {
+      "name": "Madhavan.R",
+      "register_no": "059"
+    },
+    {
+      "name": "Malik Basha.R",
+      "register_no": "060"
+    },
+    {
+      "name": "Mangaladass.M",
+      "register_no": "061"
+    },
+    {
+      "name": "Manikandan.R",
+      "register_no": "062"
+    },
+    {
+      "name": "Manoj Kumar.M",
+      "register_no": "063"
+    }
+  ],
+   "incharge_no": "+91 8056928773"
+}

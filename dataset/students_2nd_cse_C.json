@@ -1,0 +1,268 @@
+{
+  "dep": "CSE",
+  "year": "2nd Year",
+  "sec": "C",
+  "incharge_no": "+91 89253 83975",
+  "students": [
+    {
+      "name": "C R Renuka",
+      "register_no": "130"
+    },
+    {
+      "name": "Rithiga Shanmugam",
+      "register_no": "130"
+    },
+    {
+      "name": "M Rokesh",
+      "register_no": "134"
+    },
+    {
+      "name": "S.Ruban",
+      "register_no": "135"
+    },
+    {
+      "name": "S.B Rohit bala",
+      "register_no": "133"
+    },
+    {
+      "name": "Sakthi.S",
+      "register_no": "136"
+    },
+    {
+      "name": "Sam Prince Abraham S",
+      "register_no": "137"
+    },
+    {
+      "name": "V. Samsonsanthosh",
+      "register_no": "138"
+    },
+    {
+      "name": "B.Sandhiya",
+      "register_no": "139"
+    },
+    {
+      "name": "B. SANJAI",
+      "register_no": "140"
+    },
+    {
+      "name": "B. Sanjai",
+      "register_no": "141"
+    },
+    {
+      "name": "SANJAI KANNA.K",
+      "register_no": "142"
+    },
+    {
+      "name": "JK.SANJAY",
+      "register_no": "143"
+    },
+    {
+      "name": "M.Sanjay",
+      "register_no": "144"
+    },
+    {
+      "name": "N.SANJAY",
+      "register_no": "145"
+    },
+    {
+      "name": "R.Sanjay",
+      "register_no": "146"
+    },
+    {
+      "name": "S.Santhiya",
+      "register_no": "147"
+    },
+    {
+      "name": "K.T.Santhosh Nathan",
+      "register_no": "148"
+    },
+    {
+      "name": "P. Santhosh",
+      "register_no": "149"
+    },
+    {
+      "name": "H. Saran",
+      "register_no": "150"
+    },
+    {
+      "name": "S.Sarath",
+      "register_no": "151"
+    },
+    {
+      "name": "S. Sasidhar",
+      "register_no": "153"
+    },
+    {
+      "name": "R.sathish",
+      "register_no": "154"
+    },
+    {
+      "name": "J.Sathya narayanan",
+      "register_no": "155"
+    },
+    {
+      "name": "E.SATHYANESAR",
+      "register_no": "156"
+    },
+    {
+      "name": "V.Seenivasan",
+      "register_no": "157"
+    },
+    {
+      "name": "A.R.Shakthi siva murugan",
+      "register_no": "158"
+    },
+    {
+      "name": "D. Sharmila",
+      "register_no": "159"
+    },
+    {
+      "name": "A.Shermila devi",
+      "register_no": "160"
+    },
+    {
+      "name": "Shrenish Saravanan",
+      "register_no": "161"
+    },
+    {
+      "name": "A.Shruti",
+      "register_no": "162"
+    },
+    {
+      "name": "J. Shubiisha",
+      "register_no": "163"
+    },
+    {
+      "name": "R. Sowndharya",
+      "register_no": "164"
+    },
+    {
+      "name": "G.Srimathi",
+      "register_no": "165"
+    },
+    {
+      "name": "L.Srinath",
+      "register_no": "166"
+    },
+    {
+      "name": "K.S.Subilin Greety",
+      "register_no": "167"
+    },
+    {
+      "name": "N.Sujitha",
+      "register_no": "168"
+    },
+    {
+      "name": "P. Sujithra",
+      "register_no": "169"
+    },
+    {
+      "name": "S.Sushmitha",
+      "register_no": "170"
+    },
+    {
+      "name": "A.Syed faiz-ur-rehman",
+      "register_no": "171"
+    },
+    {
+      "name": "S.Tamilselva",
+      "register_no": "172"
+    },
+    {
+      "name": "Tanvi Himachalan",
+      "register_no": "173"
+    },
+    {
+      "name": "Tarun Kumar",
+      "register_no": "174"
+    },
+    {
+      "name": "E.Thanigaaivelan",
+      "register_no": "175"
+    },
+    {
+      "name": "Thathapudi Blesson",
+      "register_no": "176"
+    },
+    {
+      "name": "R. G. Varsha",
+      "register_no": "177"
+    },
+    {
+      "name": "VARUN KALYAN. K",
+      "register_no": "178"
+    },
+    {
+      "name": "M. Varun prasath",
+      "register_no": "179"
+    },
+    {
+      "name": "H.Vasundhara",
+      "register_no": "180"
+    },
+    {
+      "name": "M.vignesh",
+      "register_no": "181"
+    },
+    {
+      "name": "VIGNESH V",
+      "register_no": "182"
+    },
+    {
+      "name": "B. Vijay akash",
+      "register_no": "183"
+    },
+    {
+      "name": "B.Vijaya kumar",
+      "register_no": "184"
+    },
+    {
+      "name": "D. Vishal",
+      "register_no": "185"
+    },
+    {
+      "name": "I.Vishal",
+      "register_no": "186"
+    },
+    {
+      "name": "T.vishmaya",
+      "register_no": "188"
+    },
+    {
+      "name": "VISHNU KARNAN",
+      "register_no": "189"
+    },
+    {
+      "name": "Vivekha S A",
+      "register_no": "190"
+    },
+    {
+      "name": "G. Yashwanth",
+      "register_no": "191"
+    },
+    {
+      "name": "V.Yogeshwaran",
+      "register_no": "192"
+    },
+    {
+      "name": "Aniruth A",
+      "register_no": "701"
+    },
+    {
+      "name": "Syed Imthiyas",
+      "register_no": "301"
+    },
+    {
+      "name": "Kavya P",
+      "register_no": "703"
+    },
+    {
+      "name": "Menaha S",
+      "register_no": "704"
+    },
+    {
+      "name": "Chitrhralekha  SKM",
+      "register_no": "702"
+    }
+  ]
+}
